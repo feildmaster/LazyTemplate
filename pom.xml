@@ -3,7 +3,7 @@
     <groupId>com.feildmaster.template</groupId>
     <artifactId>TemplatePlugin</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Plugin</name>
+    <name>${artifactId}</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
